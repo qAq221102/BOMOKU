@@ -1,0 +1,6 @@
+- written in **C**
+- run **bomoku.exe** then follow the prompt and enjoy a different Gomoku
+- **special mode**:
+  - there are **Normal** and **Bomb** mode in this game, **Bomb** mode has **FIXED** and **INCREASING** type
+  - **Bomb** will **clear all the spaces around it** only if **surrounded by pieces**, the place of **Bomb** will be replaced depending on which kind of pieces are around **Bomb** more, and be careful, it supports **chain reaction**
+- simply control by keyboard
